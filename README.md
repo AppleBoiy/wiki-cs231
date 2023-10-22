@@ -3,7 +3,7 @@
 These instructions guide you through the process of compiling assembly (ASM) files on macOS using DOSBox and a
 third-party version of MASM. Please follow each step carefully.
 
-> **NORE**
+> **NOTE**
 > Visit [my wiki](https://github.com/AppleBoiy/cs-wiki101/wiki) and follow the installation guides tailored to your course. If you're unsure about which course to follow, please reach out to your instructor or teaching assistant for guidance.
 
 # [Explore the Wiki &#10148;](https://github.com/AppleBoiy/cs-wiki101/wiki)
