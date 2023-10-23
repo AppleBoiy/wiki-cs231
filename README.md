@@ -14,12 +14,6 @@ third-party version of MASM. Please follow each step carefully.
 - DOSBox installed (download from the [DOSBox website](https://www.dosbox.com/download.php))
 - macOS-compatible version of MASM [here](https://www2.cs.science.cmu.ac.th/staff/chumphol/204231/MASM.rar)
 
-### QUICK USE
-
-```shell
-git clone https://github.com/AppleBoiy/wik-cs203.git w
-```
-
 ## Instructions
 
 1. **Download and Install DOSBox:** Visit the [DOSBox website](https://www.dosbox.com/download.php) and download the
