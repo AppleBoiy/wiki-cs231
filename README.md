@@ -19,7 +19,7 @@ third-party version of MASM. Please follow each step carefully.
 Follow the instructions [here](docs/instructions.md) to compile assembly (ASM) files on macOS using DOSBox and a third-party version of MASM.
 
 > **NOTE**
-> If you want to automatically mount the workspace and configure dosBox, please see "[SETUP dosBox for CS231](docs/automation.md)"
+> If you want to automatically mount the workspace and configure dosBox, please see "[SETUP dosBox for CS231](https://github.com/AppleBoiy/wiki-cs231/blob/main/docs/automation.md)"
 
 
 ---
