@@ -27,7 +27,7 @@ third-party version of MASM. Please follow each step carefully.
 3. **Create a Work Directory:** Create a directory on your macOS system to serve as your working directory for
    assembly-related tasks. For example, create a directory named "asm-work" on your desktop.
 
-4. **Copy the ASM File and MASM Executable to the Work Directory:** Copy your assembly file (e.g., "myfile.asm") and the
+4. **Copy the ASM File and MASM Executable to the Work Directory:** Copy your assembly file (e.g., "file.asm") and the
    downloaded MASM executable (e.g., "masm.exe" or "masm") to the "asm-work" directory you created in the previous step.
 
 5. **Launch DOSBox:** Open the DOSBox application on your macOS system. This will launch a command prompt-like
@@ -57,7 +57,7 @@ third-party version of MASM. Please follow each step carefully.
    executable is named "masm.exe" (or "masm"), use the following command:
 
     ```DOS
-    C:> masm myfile.asm;
+    C:> masm file.asm;
     ```
 
    The semicolon (;) at the end of the command ensures that MASM executes in a single step.
@@ -66,7 +66,7 @@ third-party version of MASM. Please follow each step carefully.
    executable file using the following command:
 
    ```DOS
-   C:> link myfile; 
+   C:> link file; 
    ```
 
    Again, the semicolon (;) ensures a single-step execution.
@@ -75,10 +75,10 @@ third-party version of MASM. Please follow each step carefully.
     command:
 
     ```DOS
-    C:\> myfile.exe
+    C:\> file.exe
     ```
 
-    Replace "myfile" with the name you provided for your assembly file.
+    Replace "file" with the name you provided for your assembly file.
 
 > **NOTE**
 > Step 2 involves obtaining a macOS-compatible version of MASM from a third-party source. Exercise caution and

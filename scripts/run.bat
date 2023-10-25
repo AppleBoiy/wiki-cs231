@@ -1,18 +1,16 @@
 @echo off
-echo Compiling... 
 echo ---
 
-rem replace l with your .asm file
+rem replace file with your .asm file
 
 rem Assemble the source code using MASM
-masm.exe l;
+masm.exe file;
 
 rem Link the assembled code to create the executable
-link l;
+link file;
 
 rem Run the executable
-l
+file
 
 echo --- 
-echo Compilation complete.
 
