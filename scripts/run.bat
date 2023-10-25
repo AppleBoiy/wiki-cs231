@@ -1,8 +1,8 @@
 @echo off
 cls
 
-rem Replace "your_program.asm" with the name of your .asm file
-set source_file=your_program.asm
+rem Replace "your_program" with the name of your .asm file
+set source_file=your_program
 
 rem Assemble the source code using MASM
 masm.exe %source_file%;
