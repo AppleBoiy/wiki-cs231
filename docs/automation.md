@@ -27,7 +27,7 @@ LINK <filename>.OBJ;
 
 This is a little bit tedious, so I wrote a script to run the commands above automatically. 
 
-1. Put `run.bat` in the same directory as your `.ASM` file.
+1. Put `scripts/run.bat` in the same directory as your `.ASM` file.
 
 2. Open `dosBox` and open the directory where your `.ASM` file is located.
 3. Type `run` in the terminal and press `Enter`.
