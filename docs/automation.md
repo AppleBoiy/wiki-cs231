@@ -11,10 +11,6 @@ mkdir ~/.test
 > **NOTE**
 > you can name the workspace whatever you want, but I recommend naming it something that will be easy to remember and type.
 
-## Automounting the workspace & dosBox configuration
-
-If you want to automatically mount the workspace and configure dosBox, please see "[SETUP dosBox for CS231](https://github.com/AppleBoiy/dotfiles/blob/master/config/dosBox/README.md)"
-
 ## How to run scripts shortly
 
 Normally, you can run the scripts by typing the following command in the terminal:
